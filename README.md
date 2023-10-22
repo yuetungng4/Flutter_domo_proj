@@ -1,6 +1,7 @@
 ### Aims of this project
 
 -Showing my capablity of developing Natibe-like and cross-platform app by using Flutter and Dart language
+
 -Use a variety of pre-designed widgets with refering other projects
 
 ### Styles & UI Library Used
